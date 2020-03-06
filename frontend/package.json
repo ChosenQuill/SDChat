@@ -8,6 +8,7 @@
     "eject": "expo eject"
   },
   "dependencies": {
+    "@react-navigation/native": "^5.0.9",
     "@types/react-native": "^0.61.19",
     "expo": "~36.0.0",
     "react": "~16.9.0",
